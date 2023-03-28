@@ -1,0 +1,52 @@
+
+    img{
+    height: 144px;
+    width: 144px;
+    left: 47px;
+    top: 31px;
+    }
+    
+    
+    h1{
+        text-align: center;
+       
+    }
+    
+    div{
+    background-color: #D4D2D2;
+    height: 471px;
+    width: 935px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+      top: 63%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      text-align: center;
+    
+    }
+    
+    input{
+        height: 83px;
+    width: 410px;
+    left: 35px;
+    top: 94px;
+    border-radius: 0px;
+    margin: 10px;
+        
+    }
+    
+    
+    #submit{
+        background-color: #F96136;
+        height: 29px;
+    width: 149px;
+    left: 393px;
+    top: 385px;
+    border-radius: 52px;
+    align-items: center;
+    margin: 40px;
+    
+    
+    }
